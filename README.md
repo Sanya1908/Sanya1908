@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sanya1908
 - 👀 I’m interested in coding and exploring new things.    
 - 🌱 I’m currently learning Android Software Development
+- 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 How to reach me at sanyasharan19@gmail.com
 
 <!---
